@@ -347,9 +347,6 @@ This final project combines the major concepts covered throughout the repository
 
 ---
 
-Absolutely. For the **Advanced DevOps Projects** repository, I would keep the exact same structure, but change the prerequisites, getting started steps, and contribution guidelines to match the tools and projects in this repo.
-
-````markdown
 ## 🛠️ Prerequisites
 
 - Basic understanding of DevOps and software development concepts
@@ -395,30 +392,7 @@ cd devops-engineering-portfolio
 
 # Explore the project structure
 ls
-````
-
-Start with the project that matches your current learning objective.
-
-For example:
-
-```bash
-# Navigate to the Terraform project
-cd 07-Infrastructure-as-Code-with-Terraform
-
-# Or explore the Kubernetes platform
-cd 11-Production-Kubernetes-Platform
-
-# Or start with the DevSecOps pipeline
-cd 21-End-to-End-DevSecOps-Pipeline
 ```
-
-Each project contains its own `README.md` with architecture diagrams, project objectives, implementation steps, configuration files, automation scripts, security considerations, troubleshooting guidance, and real-world engineering practices where applicable.
-
-Projects are designed to be completed independently, but following the repository progression from infrastructure and CI/CD through Kubernetes, DevSecOps, GitOps, observability, platform engineering, and SRE will provide a broader learning path.
-
-> ⚠️ **Cloud Cost Notice:** Some projects create billable AWS, Azure, or GCP resources. Always review the resources created by a project and delete unused infrastructure after completing your lab.
-
----
 
 ## 🤝 Contributing
 
