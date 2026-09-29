@@ -421,5 +421,4 @@ Please keep contributions **production-oriented, technically accurate, well-docu
 **Build. Automate. Secure. Observe. Scale.**
 
 </div>
-```
 
