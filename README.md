@@ -346,3 +346,106 @@ This final project combines the major concepts covered throughout the repository
 📂 **[Explore → End-to-End Production DevOps Capstone](./36-End-to-End-Production-DevOps-Capstone/)**
 
 ---
+
+Absolutely. For the **Advanced DevOps Projects** repository, I would keep the exact same structure, but change the prerequisites, getting started steps, and contribution guidelines to match the tools and projects in this repo.
+
+````markdown
+## 🛠️ Prerequisites
+
+- Basic understanding of DevOps and software development concepts
+- Basic understanding of networking concepts such as IP addressing, DNS, routing, load balancing, and firewalls
+- Familiarity with Linux commands and terminal usage
+- Basic understanding of Git and GitHub workflows
+- Familiarity with containers and Docker fundamentals
+- Basic understanding of cloud computing concepts and at least one major cloud platform
+- Basic understanding of YAML, JSON, and configuration files
+- Familiarity with command-line tools and package managers
+- Basic understanding of CI/CD concepts is recommended
+- An active cloud account may be required for projects involving AWS, Azure, or GCP resources
+
+Before diving in, make sure you have:
+
+| **Requirement** | **Details** |
+| ---------------- | ----------- |
+| Cloud Account | AWS, Azure, and/or GCP account depending on the project |
+| Linux Environment | Linux VM, WSL, or a Linux-based cloud instance |
+| Git | Installed for cloning and managing the repository |
+| GitHub Account | Required for cloning, CI/CD, GitOps, and contributing |
+| Docker | Installed and configured for container-based projects |
+| Kubernetes | Local Kubernetes environment such as Kind, Minikube, or Docker Desktop |
+| kubectl | Installed and configured for Kubernetes projects |
+| Terraform | Installed for Infrastructure as Code projects |
+| Ansible | Installed for configuration management projects |
+| Helm | Installed for Kubernetes package management |
+| Cloud CLI | AWS CLI, Azure CLI, and/or Google Cloud CLI as required |
+| Code Editor | VS Code or similar editor for YAML, Terraform, Dockerfiles, scripts, and configuration |
+| Container Registry | Docker Hub, Amazon ECR, Azure ACR, or Google Artifact Registry where required |
+| CI/CD Platform | Jenkins, GitHub Actions, or Azure DevOps depending on the project |
+
+---
+
+# 🚦 Getting Started
+
+```bash
+# Clone this repository
+git clone https://github.com/Irfaanpk/devops-engineering-portfolio.git
+
+# Navigate into the project
+cd devops-engineering-portfolio
+
+# Explore the project structure
+ls
+````
+
+Start with the project that matches your current learning objective.
+
+For example:
+
+```bash
+# Navigate to the Terraform project
+cd 07-Infrastructure-as-Code-with-Terraform
+
+# Or explore the Kubernetes platform
+cd 11-Production-Kubernetes-Platform
+
+# Or start with the DevSecOps pipeline
+cd 21-End-to-End-DevSecOps-Pipeline
+```
+
+Each project contains its own `README.md` with architecture diagrams, project objectives, implementation steps, configuration files, automation scripts, security considerations, troubleshooting guidance, and real-world engineering practices where applicable.
+
+Projects are designed to be completed independently, but following the repository progression from infrastructure and CI/CD through Kubernetes, DevSecOps, GitOps, observability, platform engineering, and SRE will provide a broader learning path.
+
+> ⚠️ **Cloud Cost Notice:** Some projects create billable AWS, Azure, or GCP resources. Always review the resources created by a project and delete unused infrastructure after completing your lab.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you have suggestions for improvements, new project ideas, better implementations, or find any issues, feel free to:
+
+* Open an issue
+* Submit a pull request
+* Improve existing documentation
+* Add new DevOps or DevSecOps projects
+* Add architecture diagrams
+* Improve automation scripts
+* Add troubleshooting guides
+* Improve security practices
+* Add real-world implementation examples
+
+Please keep contributions **production-oriented, technically accurate, well-documented, and consistent with the structure of this repository**.
+
+---
+
+<div align="center">
+
+**Happy Automating! 🚀**
+
+**Build. Automate. Secure. Observe. Scale.**
+
+</div>
+```
+
