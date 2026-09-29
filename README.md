@@ -63,7 +63,7 @@ By working through these projects, you will build practical experience with:
 
 This section focuses on advanced Linux administration and automation — system management, users and permissions, processes, services, networking, storage, troubleshooting, and Bash scripting required for modern DevOps environments.
 
-📂 **[Explore → Linux System Administration and Automation](./01-Linux-System-Administration-and-Automation/)**
+📂 **[Explore → Linux System Administration and Automation](./Linux-System-Administration-and-Automation/)**
 
 ---
 
