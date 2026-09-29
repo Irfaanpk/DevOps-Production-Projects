@@ -1,217 +1,56 @@
-## 📚 Table of Contents
+<div align="center">
 
-### 1. Linux System Administration and Automation
+<img src="./assets/devops-banner.jpeg" alt="DevOps Advanced Projects Banner">
 
-📂 **[Explore → Linux System Administration and Automation](./01-Linux-System-Administration-and-Automation/)**
+<br><br>
 
----
+<img src="https://img.shields.io/badge/DevOps-Advanced-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/DevSecOps-Security-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kubernetes-Production-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-Infrastructure-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 
-### 2. Git, GitHub and Advanced Version Control
+<br>
 
-📂 **[Explore → Git, GitHub and Advanced Version Control](./02-Git-GitHub-and-Advanced-Version-Control/)**
+<img src="https://img.shields.io/badge/GitOps-Argo%20CD-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-E6522C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform%20Engineering-Advanced-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge">
 
----
+</div>
 
-### 3. Enterprise CI/CD with Jenkins
+<div align="center">
 
-📂 **[Explore → Enterprise CI/CD with Jenkins](./03-Enterprise-CI-CD-with-Jenkins/)**
+# DevOps — Advanced Projects
 
----
+### 🚀 Production-oriented DevOps, DevSecOps, Cloud, Kubernetes, GitOps, Platform Engineering, and SRE projects.
 
-### 4. Cloud CI/CD with GitHub Actions
-
-📂 **[Explore → Cloud CI/CD with GitHub Actions](./04-Cloud-CI-CD-with-GitHub-Actions/)**
-
----
-
-### 5. Enterprise CI/CD with Azure DevOps
-
-📂 **[Explore → Enterprise CI/CD with Azure DevOps](./05-Enterprise-CI-CD-with-Azure-DevOps/)**
-
----
-
-### 6. Docker Containerization and Registry Management
-
-📂 **[Explore → Docker Containerization and Registry Management](./06-Docker-Containerization-and-Registry-Management/)**
+</div>
 
 ---
 
-### 7. Infrastructure as Code with Terraform
-
-📂 **[Explore → Infrastructure as Code with Terraform](./07-Infrastructure-as-Code-with-Terraform/)**
-
----
-
-### 8. Advanced Terraform with Terragrunt and Modules
-
-📂 **[Explore → Advanced Terraform with Terragrunt and Modules](./08-Advanced-Terraform-with-Terragrunt-and-Modules/)**
-
----
-
-### 9. Configuration Management with Ansible
-
-📂 **[Explore → Configuration Management with Ansible](./09-Configuration-Management-with-Ansible/)**
-
----
-
-### 10. Multi-Cloud Infrastructure Automation
-
-📂 **[Explore → Multi-Cloud Infrastructure Automation](./10-Multi-Cloud-Infrastructure-Automation/)**
-
----
-
-### 11. Production Kubernetes Platform
-
-📂 **[Explore → Production Kubernetes Platform](./11-Production-Kubernetes-Platform/)**
-
----
-
-### 12. AWS EKS Production Platform
-
-📂 **[Explore → AWS EKS Production Platform](./12-AWS-EKS-Production-Platform/)**
-
----
-
-### 13. Azure AKS Production Platform
-
-📂 **[Explore → Azure AKS Production Platform](./13-Azure-AKS-Production-Platform/)**
-
----
-
-### 14. GCP GKE Production Platform
-
-📂 **[Explore → GCP GKE Production Platform](./14-GCP-GKE-Production-Platform/)**
-
----
-
-### 15. Kubernetes Networking and Storage
-
-📂 **[Explore → Kubernetes Networking and Storage](./15-Kubernetes-Networking-and-Storage/)**
-
----
-
-### 16. Kubernetes Autoscaling and Resource Optimization
-
-📂 **[Explore → Kubernetes Autoscaling and Resource Optimization](./16-Kubernetes-Autoscaling-and-Resource-Optimization/)**
-
----
-
-### 17. Kubernetes Security, RBAC and Policy Governance
-
-📂 **[Explore → Kubernetes Security, RBAC and Policy Governance](./17-Kubernetes-Security-RBAC-and-Policy-Governance/)**
-
----
-
-### 18. Kubernetes Operators and Custom Resources
-
-📂 **[Explore → Kubernetes Operators and Custom Resources](./18-Kubernetes-Operators-and-Custom-Resources/)**
-
----
-
-### 19. GitOps with Argo CD and Helm
-
-📂 **[Explore → GitOps with Argo CD and Helm](./19-GitOps-with-Argo-CD-and-Helm/)**
-
----
-
-### 20. Progressive Delivery and Automated Rollbacks
-
-📂 **[Explore → Progressive Delivery and Automated Rollbacks](./20-Progressive-Delivery-and-Automated-Rollbacks/)**
-
----
-
-### 21. End-to-End DevSecOps Pipeline
-
-📂 **[Explore → End-to-End DevSecOps Pipeline](./21-End-to-End-DevSecOps-Pipeline/)**
-
----
-
-### 22. Application and Dependency Security
-
-📂 **[Explore → Application and Dependency Security](./22-Application-and-Dependency-Security/)**
-
----
-
-### 23. Container and Kubernetes Security
-
-📂 **[Explore → Container and Kubernetes Security](./23-Container-and-Kubernetes-Security/)**
-
----
-
-### 24. Infrastructure and Cloud Security
-
-📂 **[Explore → Infrastructure and Cloud Security](./24-Infrastructure-and-Cloud-Security/)**
-
----
-
-### 25. Software Supply Chain Security
-
-📂 **[Explore → Software Supply Chain Security](./25-Software-Supply-Chain-Security/)**
-
----
-
-### 26. Enterprise Secrets Management with Vault
-
-📂 **[Explore → Enterprise Secrets Management with Vault](./26-Enterprise-Secrets-Management-with-Vault/)**
-
----
-
-### 27. Complete Observability with Prometheus, Grafana and OpenTelemetry
-
-📂 **[Explore → Complete Observability Platform](./27-Complete-Observability-with-Prometheus-Grafana-and-OpenTelemetry/)**
-
----
-
-### 28. Centralized Logging and Distributed Tracing
-
-📂 **[Explore → Centralized Logging and Distributed Tracing](./28-Centralized-Logging-and-Distributed-Tracing/)**
-
----
-
-### 29. Advanced Cloud Networking and Security
-
-📂 **[Explore → Advanced Cloud Networking and Security](./29-Advanced-Cloud-Networking-and-Security/)**
-
----
-
-### 30. Microservices, API Gateway and Service Mesh
-
-📂 **[Explore → Microservices, API Gateway and Service Mesh](./30-Microservices-API-Gateway-and-Service-Mesh/)**
-
----
-
-### 31. Event-Driven Microservices with Kafka
-
-📂 **[Explore → Event-Driven Microservices with Kafka](./31-Event-Driven-Microservices-with-Kafka/)**
-
----
-
-### 32. Platform Engineering with Backstage and Crossplane
-
-📂 **[Explore → Platform Engineering with Backstage and Crossplane](./32-Platform-Engineering-with-Backstage-and-Crossplane/)**
-
----
-
-### 33. Cloud Database, Caching and High Availability
-
-📂 **[Explore → Cloud Database, Caching and High Availability](./33-Cloud-Database-Caching-and-High-Availability/)**
-
----
-
-### 34. FinOps, Cloud Cost Optimization and Resource Management
-
-📂 **[Explore → FinOps and Cloud Cost Optimization](./34-FinOps-Cloud-Cost-Optimization-and-Resource-Management/)**
-
----
-
-### 35. Disaster Recovery, Chaos Engineering and SRE
-
-📂 **[Explore → Disaster Recovery, Chaos Engineering and SRE](./35-Disaster-Recovery-Chaos-Engineering-and-SRE/)**
-
----
-
-### 36. End-to-End Production DevOps Capstone
-
-📂 **[Explore → End-to-End Production DevOps Capstone](./36-End-to-End-Production-DevOps-Capstone/)**
-
----
+## 📖 About This Repository
+
+**DevOps Advanced Projects** is a structured, hands-on repository focused on building and implementing **real-world DevOps and cloud-native engineering projects**.
+
+The repository goes beyond basic tool demonstrations and focuses on production-oriented architectures, automation, security, scalability, reliability, observability, and operational practices.
+
+Projects cover the complete DevOps lifecycle — from source code management and CI/CD to infrastructure automation, Kubernetes, DevSecOps, GitOps, cloud networking, observability, platform engineering, SRE, disaster recovery, and cost optimization.
+
+Each project is organized into its own folder with a dedicated `README.md` containing architecture diagrams, implementation steps, configuration files, automation scripts, security practices, troubleshooting guidance, and real-world engineering considerations.
+
+By working through these projects, you will build practical experience with:
+
+- ✅ Designing production-oriented CI/CD pipelines using Jenkins, GitHub Actions, and Azure DevOps
+- ✅ Automating cloud infrastructure using Terraform, Terragrunt, and Ansible
+- ✅ Building and managing production Kubernetes platforms across AWS, Azure, and GCP
+- ✅ Implementing GitOps workflows using Argo CD and Helm
+- ✅ Building secure DevSecOps pipelines with SAST, SCA, IaC, container, and supply-chain security
+- ✅ Implementing Kubernetes security, RBAC, policy enforcement, secrets management, and runtime protection
+- ✅ Building complete observability platforms using Prometheus, Grafana, Loki, and OpenTelemetry
+- ✅ Designing secure cloud networking and microservices architectures
+- ✅ Implementing service mesh and event-driven architectures
+- ✅ Building internal developer platforms using Backstage and Crossplane
+- ✅ Applying SRE principles including SLI, SLO, incident management, and reliability engineering
+- ✅ Implementing disaster recovery, chaos engineering, and high-availability architectures
+- ✅ Applying FinOps practices for cloud cost optimization and resource management
